@@ -1,0 +1,32 @@
+{
+  "name": "use-node-runner",
+  "version": "0.0.1",
+  "description": "A React.js hook that allows you to connect to a node.js runner",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jonathan-fielding/use-node-runner.git"
+  },
+  "keywords": [
+    "React.js",
+    "hook"
+  ],
+  "author": "Jonathan Fielding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonathan-fielding/use-node-runner/issues"
+  },
+  "homepage": "https://github.com/jonathan-fielding/use-node-runner#readme",
+  "dependencies": {
+    "react-use-websocket": "^2.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.34",
+    "react": "^16.13.1",
+    "typescript": "^3.8.3"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1"
+  }
+}
